@@ -829,3 +829,51 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.10.06-18.37.38:894][173]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
 [2021.10.06-18.37.39:887][290]Cmd: SELECT NONE
 [2021.10.06-18.37.40:683][385]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2021.10.06-18.38.37:849][115]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.10.06-18.38.38:789][225]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2021.10.06-18.38.38:804][225]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TestLevel" FILE="../../../../../../Creative Work/Project Igris/ProjectIgris/Content/TestLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.10.06-18.38.38:809][225]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2021.10.06-18.38.38:816][225]LogSavePackage: Moving '../../../../../../Creative Work/Project Igris/ProjectIgris/Saved/TestLevel85D0F3BA4B4E63BFCEF84BB8A3B5FEE4.tmp' to '../../../../../../Creative Work/Project Igris/ProjectIgris/Content/TestLevel.umap'
+[2021.10.06-18.38.38:823][225]LogFileHelpers: Saving map 'TestLevel' took 0.019
+[2021.10.06-18.38.38:832][225]AssetCheck: New page: Asset Save: TestLevel
+[2021.10.06-18.38.38:832][225]LogContentValidation: Display: Validating World /Game/TestLevel.TestLevel
+[2021.10.06-18.40.00:727][ 79]Cmd: SELECT NONE
+[2021.10.06-18.40.07:428][873]Cmd: DELETE
+[2021.10.06-18.40.07:428][873]Cmd: ACTOR DELETE
+[2021.10.06-18.40.07:441][873]LogEditorActor: Deleted Actor: Brush
+[2021.10.06-18.40.07:446][873]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2021.10.06-18.40.07:449][873]LogEditorActor: Deleted 1 Actors (0.020 secs)
+[2021.10.06-18.40.07:775][906]Cmd: DELETE
+[2021.10.06-18.40.07:775][906]Cmd: ACTOR DELETE
+[2021.10.06-18.40.07:776][906]LogEditorActor: Deleted Actor: Brush
+[2021.10.06-18.40.07:780][906]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2021.10.06-18.40.07:782][906]LogEditorActor: Deleted 1 Actors (0.007 secs)
+[2021.10.06-18.40.08:010][932]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.10.06-18.40.08:172][949]Cmd: DELETE
+[2021.10.06-18.40.08:172][949]Cmd: ACTOR DELETE
+[2021.10.06-18.40.08:172][949]LogEditorActor: Deleted Actor: BP_Sky_Sphere_C
+[2021.10.06-18.40.08:178][949]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2021.10.06-18.40.08:178][949]LogEditorActor: Deleted 1 Actors (0.007 secs)
+[2021.10.06-18.40.09:423][ 98]Cmd: TRANSACTION UNDO
+[2021.10.06-18.40.09:423][ 98]LogEditorTransaction: Undo Delete Actors
+[2021.10.06-18.40.10:335][176]Cmd: DELETE
+[2021.10.06-18.40.10:335][176]Cmd: ACTOR DELETE
+[2021.10.06-18.40.10:336][176]LogEditorActor: Deleted Actor: Brush
+[2021.10.06-18.40.10:341][176]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2021.10.06-18.40.10:345][176]LogEditorActor: Deleted 1 Actors (0.009 secs)
+[2021.10.06-18.40.10:613][205]Cmd: DELETE
+[2021.10.06-18.40.10:613][205]Cmd: ACTOR DELETE
+[2021.10.06-18.40.10:614][205]LogEditorActor: Deleted Actor: Brush
+[2021.10.06-18.40.10:619][205]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2021.10.06-18.40.10:619][205]LogEditorActor: Deleted 1 Actors (0.006 secs)
+[2021.10.06-18.40.48:533][721]LogSlate: Took 0.000196 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.10.06-18.40.52:976][252]Cmd: SELECT NONE
+[2021.10.06-18.41.11:163][419]Cmd: SELECT NONE
+[2021.10.06-18.41.30:826][762]Cmd: SELECT NONE
+[2021.10.06-18.41.43:018][204]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2021.10.06-18.41.43:029][204]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TestLevel" FILE="../../../../../../Creative Work/Project Igris/ProjectIgris/Content/TestLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.10.06-18.41.43:033][204]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2021.10.06-18.41.43:039][204]LogSavePackage: Moving '../../../../../../Creative Work/Project Igris/ProjectIgris/Saved/TestLevel401C234741BE35918FA265951990DB23.tmp' to '../../../../../../Creative Work/Project Igris/ProjectIgris/Content/TestLevel.umap'
+[2021.10.06-18.41.43:046][204]LogFileHelpers: Saving map 'TestLevel' took 0.017
+[2021.10.06-18.41.43:050][204]AssetCheck: New page: Asset Save: TestLevel
+[2021.10.06-18.41.43:050][204]LogContentValidation: Display: Validating World /Game/TestLevel.TestLevel
