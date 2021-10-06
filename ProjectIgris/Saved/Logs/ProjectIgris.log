@@ -786,3 +786,46 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.10.06-18.29.55:095][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000004 seconds (updated 0 objects)
 [2021.10.06-18.29.55:143][  0]LogContentStreaming: Texture pool size now 1000 MB
 [2021.10.06-18.29.55:297][  3]LogSlate: Took 0.000183 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.10.06-18.33.24:380][867]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2021.10.06-18.33.29:475][429]LogSlate: Took 0.000142 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.10.06-18.33.33:769][925]LogSlate: Window 'Project Settings' being destroyed
+[2021.10.06-18.33.33:772][925]LogSlate: Window 'Project Settings' being destroyed
+[2021.10.06-18.33.36:610][257]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2021.10.06-18.33.36:620][257]LogAssetEditorSubsystem: Opening Asset editor for World /Game/TestLevel.TestLevel
+[2021.10.06-18.33.36:640][257]Cmd: MAP LOAD FILE="../../../../../../Creative Work/Project Igris/ProjectIgris/Content/TestLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.10.06-18.33.36:640][257]LightingResults: New page: Lighting Build
+[2021.10.06-18.33.36:641][257]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'StatsViewer' in 0.0003 seconds. Added 6 classes and 0 folders.
+[2021.10.06-18.33.36:641][257]LoadErrors: New page: Loading map: TestLevel.umap
+[2021.10.06-18.33.36:675][257]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.10.06-18.33.36:675][257]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.06-18.33.36:675][257]MapCheck: New page: Map Check
+[2021.10.06-18.33.36:675][257]LightingResults: New page: Lighting Build
+[2021.10.06-18.33.36:680][257]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2021.10.06-18.33.36:680][257]LogAudio: Display: Audio Device (ID: 1) registered with world 'TestLevel'.
+[2021.10.06-18.33.36:722][257]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.10.06-18.33.36:722][257]LogAIModule: Creating AISystem for world TestLevel
+[2021.10.06-18.33.36:728][257]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2021.10.06-18.33.36:734][257]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.10.06-18.33.36:734][257]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,066ms to complete.
+[2021.10.06-18.33.36:734][257]LogFileHelpers: Loading map 'TestLevel' took 0.094
+[2021.10.06-18.37.04:280][513]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.10.06-18.37.09:357][106]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2021.10.06-18.37.12:445][470]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TestLevel" FILE="../../../../../../Creative Work/Project Igris/ProjectIgris/Content/TestLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.10.06-18.37.12:449][470]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2021.10.06-18.37.12:456][470]LogSavePackage: Moving '../../../../../../Creative Work/Project Igris/ProjectIgris/Saved/TestLevel08A7353A42A18349B85E4DAD32A12619.tmp' to '../../../../../../Creative Work/Project Igris/ProjectIgris/Content/TestLevel.umap'
+[2021.10.06-18.37.12:464][470]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TestLevel_BuiltData" FILE="../../../../../../Creative Work/Project Igris/ProjectIgris/Content/TestLevel_BuiltData.uasset" SILENT=true
+[2021.10.06-18.37.12:476][470]LogSavePackage: Moving '../../../../../../Creative Work/Project Igris/ProjectIgris/Saved/TestLevel_BuiltData4645DB6643FA4808B3BFD1A32116B9F3.tmp' to '../../../../../../Creative Work/Project Igris/ProjectIgris/Content/TestLevel_BuiltData.uasset'
+[2021.10.06-18.37.12:483][470]AssetCheck: New page: Asset Save: multiple assets
+[2021.10.06-18.37.12:483][470]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/TestLevel_BuiltData.TestLevel_BuiltData
+[2021.10.06-18.37.12:484][470]LogContentValidation: Display: Validating World /Game/TestLevel.TestLevel
+[2021.10.06-18.37.34:730][679]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2021.10.06-18.37.34:742][679]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TestLevel" FILE="../../../../../../Creative Work/Project Igris/ProjectIgris/Content/TestLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.10.06-18.37.34:746][679]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2021.10.06-18.37.34:753][679]LogSavePackage: Moving '../../../../../../Creative Work/Project Igris/ProjectIgris/Saved/TestLevelC994C7634BF80A4E6C32DC9922D22EB1.tmp' to '../../../../../../Creative Work/Project Igris/ProjectIgris/Content/TestLevel.umap'
+[2021.10.06-18.37.34:759][679]LogFileHelpers: Saving map 'TestLevel' took 0.018
+[2021.10.06-18.37.34:767][679]AssetCheck: New page: Asset Save: TestLevel
+[2021.10.06-18.37.34:767][679]LogContentValidation: Display: Validating World /Game/TestLevel.TestLevel
+[2021.10.06-18.37.37:864][ 50]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2021.10.06-18.37.38:894][173]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.10.06-18.37.39:887][290]Cmd: SELECT NONE
+[2021.10.06-18.37.40:683][385]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
