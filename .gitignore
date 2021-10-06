@@ -72,3 +72,12 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+ProjectIgris/Intermediate/CachedAssetRegistry.bin
+ProjectIgris/Intermediate/CachedAssetRegistry.bin
+ProjectIgris/Saved/Autosaves/PackageRestoreData.json
+ProjectIgris/Saved/Config/Windows/EditorPerProjectUserSettings.ini
+ProjectIgris/Saved/Config/Windows/Engine.ini
+ProjectIgris/Saved/Logs/ProjectIgris.log
+ProjectIgris/Intermediate/CachedAssetRegistry.bin
+ProjectIgris/Saved/Autosaves/PackageRestoreData.json
+ProjectIgris/Saved/Logs/ProjectIgris.log
